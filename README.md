@@ -15,3 +15,7 @@ Os produtos cadastrados podem ser vizualizados, editados e excluidos.
 
 ### Tela show - Onde vejo mais detalhes do produto
 
+![show](https://user-images.githubusercontent.com/50220412/155769467-163b3c7d-41aa-4bd1-84c3-b3807a6dbf0a.png)
+
+### Tela edit - Onde atualizamos informações do produto
+
