@@ -19,3 +19,4 @@ Os produtos cadastrados podem ser vizualizados, editados e excluidos.
 
 ### Tela edit - Onde atualizamos informações do produto
 
+![editar](https://user-images.githubusercontent.com/50220412/155769623-7c6fd522-d6f5-4734-b7fc-8b090efc1241.png)
